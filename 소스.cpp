@@ -2,4 +2,5 @@
 
 int main() {
 	printf("help");
+	printf("\n");
 }
